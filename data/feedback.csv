@@ -1,0 +1,4 @@
+feedback_id,request_id,submitted_at,result,supersedes
+F-1,R-101,2026-01-07T08:00:00,仍未解决,
+F-2,R-104,2026-01-12T09:00:00,已解决,
+F-3,R-103,2026-01-12T10:00:00,待回访,
