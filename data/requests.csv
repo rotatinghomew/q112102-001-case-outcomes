@@ -1,5 +1,0 @@
-request_id,resident_ref,grid_ref,topic,created_at,status
-R-101,P-01,G-1,供热,2026-01-04T09:20:00,closed
-R-102,P-02,G-1,照护,2026-01-05T14:10:00,open
-R-103,P-01,G-1,供热,2026-01-08T10:00:00,open
-R-104,P-03,G-2,环境,2026-01-09T11:30:00,closed

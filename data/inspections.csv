@@ -1,0 +1,5 @@
+id,cycle,object,covered_item,evidence,finding,at
+a1,feb,o1,i1,e1,unfulfilled,2026-02-17T12:00
+a2,feb,o2,i2,e2,unfulfilled,2026-02-18T12:00
+a3,feb,o3,i3,e3,unfulfilled,2026-02-19T12:00
+a4,feb,o1,i1,e8,resolved,2026-02-27T12:00

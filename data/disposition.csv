@@ -1,0 +1,9 @@
+id,item,basis,prior_item,at
+e1,i1,performed,,2026-02-08T11:00
+e2,i2,performed,,2026-02-09T11:00
+e3,i3,transfer,,2026-02-10T11:00
+e4,i4,performed,,2026-02-10T12:00
+e5,i5,performed,,2026-02-10T13:00
+e6,i6,performed,,2026-02-11T09:00
+e7,i7,recurrence,i1,2026-03-02T11:00
+e8,i1,performed,,2026-02-26T11:00

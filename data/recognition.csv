@@ -1,0 +1,4 @@
+id,left_item,right_item,action,target,signed_by,at
+g1,i3,i4,active,,受理甲,2026-02-05T10:00
+g2,i1,i2,active,,受理乙,2026-02-22T10:00
+g3,i3,i4,revoke,g1,受理甲,2026-02-22T11:00
